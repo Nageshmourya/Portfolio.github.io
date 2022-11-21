@@ -328,13 +328,15 @@ img {
 }
 
 .skills__js {
-  width: 65%;
+  width: 20%;
 }
 
 .skills__ux {
   width: 85%;
 }
-
+.skills__sql {
+  width: 80%;
+}
 .skills__img {
   border-radius: .5rem;
 }
